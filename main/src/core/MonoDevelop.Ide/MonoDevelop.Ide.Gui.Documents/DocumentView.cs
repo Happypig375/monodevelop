@@ -489,6 +489,7 @@ namespace MonoDevelop.Ide.Gui.Documents
 
 			IsRoot = false;
 			window = null;
+			shellView = null;
 		}
 
 		protected virtual void OnDispose ()
